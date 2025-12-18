@@ -1,4 +1,7 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+NAME: THIRISHA S
+
+REG NO: 25018594
 
 **AIM:**
 
@@ -49,6 +52,15 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (12)](https://github.com/user-attachments/assets/1f21ec25-06b8-44a4-ab3d-9fb22ed33e30)
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (13)](https://github.com/user-attachments/assets/744c1407-e30c-45cd-8b65-2ad3fc086465)
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (15)](https://github.com/user-attachments/assets/13a9c613-f528-49fc-9782-31c2c0fc81eb)
+
+
+
 
 
 **PROCEDURE:**
